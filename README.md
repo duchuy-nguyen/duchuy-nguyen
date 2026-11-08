@@ -1,8 +1,8 @@
 ## Hi, I'm an AI Researcher in Audio & Vision
 
-# Born of a human.
-# Raised by a human.
-# Building a human.
+Born of a human. <br>
+Raised by a human. <br>
+Building a human.
 
 <!--
 **duchuy-nguyen/duchuy-nguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
